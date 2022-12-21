@@ -1,0 +1,39 @@
+.info {
+  padding: 2.142rem 0 4.28rem;
+}
+
+.info__container {
+  padding-left: 1.428rem;
+  padding-right: 1.428rem;
+}
+
+.info__wrapper {
+  display: flex;
+  column-gap: 0.357rem;
+  align-items: center;
+  margin-bottom: 0.714rem;
+}
+
+.info__img {
+  width: 0.964rem;
+  height: 0.857rem;
+}
+
+.info__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1.714rem;
+  height: 1.714rem;
+}
+
+.info__decor {
+  color: #828299;
+  transform: translate(0, -5%);
+}
+
+.info__nav {
+  color: #828299;
+  font-size: 0.857rem;
+  line-height: 1.4;
+}
