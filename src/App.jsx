@@ -4,8 +4,6 @@ import Offer from './Components/Main/Offer/Offer';
 
 function App() {
   return <div className="container">
-    <Header />
-    <Offer />
   </div>;
 }
 
