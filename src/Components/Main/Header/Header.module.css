@@ -2,3 +2,9 @@
   height: 10vh;
   background-color: rgb(201, 201, 201);
 }
+.header ul{
+  display: flex;
+}
+.header ul li{
+  margin: 0 10px;
+}
