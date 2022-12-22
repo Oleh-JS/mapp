@@ -1,4 +1,4 @@
-.wrapper {
+.container {
   position: relative;
   background: linear-gradient(
     80.04deg,
@@ -8,7 +8,7 @@
     #697466 100%
   );
 }
-.wrapper::after {
+.container::after {
   content: "";
   position: absolute;
   top: 0;

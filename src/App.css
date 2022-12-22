@@ -71,10 +71,14 @@ h6 {
   font-size: inherit;
   font-weight: inherit;
 }
-.container{
+/* body{
+  background-image: url(./Components/Image/bg.svg);
+  background-size: 100%;
+} */
+.App {
   display: flex;
   flex-direction: column;
 }
-.wrapper{
+.container {
   padding: 0 20px;
 }
