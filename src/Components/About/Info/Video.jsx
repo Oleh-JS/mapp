@@ -1,7 +1,7 @@
 import s from "./Video.module.css";
 
 function Info() {
-  return <section></section>;
+  return <section>fdsfsdf`</section>;
 }
 
 export default Info;
