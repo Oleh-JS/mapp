@@ -27,9 +27,12 @@ html,
 body {
   height: 100%;
   width: 100%;
-  font-size: 100%;
-  line-height: 1;
   font-size: 14px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #192040;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;

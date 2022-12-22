@@ -1,6 +1,7 @@
 import s from "./Info.module.css";
 import Description from "./Description";
 import Article from "./Article";
+import Video from "./Video";
 
 function Info() {
   return (
@@ -21,6 +22,7 @@ function Info() {
         </div>
         <Description />
         <Article />
+        <Video />
       </div>
     </section>
   );
